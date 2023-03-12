@@ -24,10 +24,11 @@ export default class App extends Component {
       number,
     };
 
-    const contactsNames = contacts.flatMap(({ name }) => name.toLowerCase());
-    const normalizedName = name.toLowerCase();
+    const matched = contacts
+      .flatMap(({ name }) => name.toLowerCase())
+      .find(e => e === name.toLowerCase());
 
-    if (contactsNames.includes(normalizedName)) {
+    if (matched) {
       alert(`${name} is already in contacts!`);
       return false;
     } else {
