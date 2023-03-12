@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//artem-borzov.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "//artem-borzov.github.io/goit-react-hw-03-phonebook/static/js/main.ad3a3f61.js",
-    "index.html": "//artem-borzov.github.io/goit-react-hw-03-phonebook/index.html",
-    "main.7acaea2f.css.map": "//artem-borzov.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
-    "main.ad3a3f61.js.map": "//artem-borzov.github.io/goit-react-hw-03-phonebook/static/js/main.ad3a3f61.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.eefa546e.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
+    "main.eefa546e.js.map": "/goit-react-hw-03-phonebook/static/js/main.eefa546e.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.ad3a3f61.js"
+    "static/js/main.eefa546e.js"
   ]
 }
